@@ -1,0 +1,18 @@
+{
+    "version": "1.0.0",
+    "summary": "A function for calculating Poisson distributions.",
+    "repository": "https://github.com/aristidesstaffieri/elm-poisson.git",
+    "license": "BSD3",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [
+        "Poisson"
+    ],
+    "dependencies": {
+        "deadfoxygrandpa/elm-test": "3.1.1 <= v < 4.0.0",
+        "elm-community/elm-test": "1.1.0 <= v < 2.0.0",
+        "elm-lang/core": "4.0.0 <= v < 5.0.0"
+    },
+    "elm-version": "0.17.0 <= v < 0.18.0"
+}
