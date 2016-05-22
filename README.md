@@ -1,6 +1,6 @@
-Elm Poisson
+##Elm Poisson
 
-[WIKI](https://en.wikipedia.org/wiki/Poisson_distribution)
+[Poisson WIKI](https://en.wikipedia.org/wiki/Poisson_distribution)
 
 Poisson distributions are useful for determining probability of events
 that happen over a fixed period of time if the events have a known
